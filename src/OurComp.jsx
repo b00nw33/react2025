@@ -1,7 +1,7 @@
 function OurComp() {
   return (
     <div>
-      My work according to YouTube tutorial
+      YouTube tutorial (My work)
       <br />
       <a href="https://www.youtube.com/watch?v=OA5JAmTcTz4">
         React JS Tutorial For Beginners 2025
